@@ -10,3 +10,13 @@ Chapter 5 contains a complete version of a paper that will be made public on arX
 
 When an updated version of Chapter 4 and/or of Chapter 5 will be completed, the committee will be notified of this.
 It would be appreciated the updated versions could be considered as the ones to be finally approved.
+
+2024.08.1:
+
+Chapter 4 and Chapter 5 have been updated.
+
+In both cases the changes do not concern our datasets, our analysis, or our results.
+They consist into minor changes in the way the results are presented.
+
+Chapter 4 now contains the version of the paper after the first iteration of the review process.
+Chapter 5 now contains the version of the paper submitted on arXiv and to MNRAS.
