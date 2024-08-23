@@ -5,6 +5,7 @@ The name of each .pdf file represents its content. The numerical suffix indicate
 2024.8.23:
 
 In Chapter 1, Section 1.6, the descriptions of Chapter 4 and Chapter 5 were inverted. This has now been corrected, without any change to the text.
+Typos have been corrected.
 
 2024.8.16:
 
