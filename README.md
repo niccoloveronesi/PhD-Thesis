@@ -2,6 +2,10 @@ In this repository is the PhD thesis of Niccolò Veronesi.
 
 The name of each .pdf file represents its content. The numerical suffix indicates the year, the month, and the day in which such file has been generated, the format is yymmdd.
 
+2024.8.23:
+
+In Chapter 1, Section 1.6, the descriptions of Chapter 4 and Chapter 5 were inverted. This has now been corrected, without any change to the text.
+
 2024.8.16:
 
 In Chapter 3 the abstract of the paper was not present. This has now been solved. The correspondent file has been modified accordingly, together with the file containing the entire scientif part of the thesis.
